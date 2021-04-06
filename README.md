@@ -1,4 +1,4 @@
-# A simple Employee Record app built with React with LocalStorage API features
+# Employee Record app
 
-This project was bootstrapped with [View Project](https://github.com/ceofvo/employee-record).
+This project is a simple Employee Record app built with React, React Hooks and LocalStorage API features [View Project](https://github.com/ceofvo/employee-record).
 
